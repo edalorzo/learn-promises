@@ -1,0 +1,14 @@
+{
+	"entries": [
+		{
+			"author": "Edwin Dalorzo",
+			"title": "Learning Promises",
+			"content": "This is about learning JavaScript promises"
+		},
+		{
+			"author": "Pedro Perez",
+			"title": "What's new in ECMAScript 6",
+			"content": "This is about learning JavaScript promises"
+		}
+	]
+}
